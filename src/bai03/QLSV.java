@@ -1,7 +1,6 @@
 package bai03;
 
 public class QLSV {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -16,5 +15,4 @@ public class QLSV {
 		//xuất giá trị của các đối tượng sinh viên ra màn hình
 		System.out.print("Họ tên: "+sv.hoten+ "; Năm sinh: "+sv.namsinh+"; SĐT: "+sv.sdt);
 	}
-
 }
