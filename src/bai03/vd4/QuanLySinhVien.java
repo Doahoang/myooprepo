@@ -9,7 +9,6 @@ public class QuanLySinhVien {
 		System.out.println("Ten: "+sv.getHoten());
 		System.out.println("Nam: "+sv.getNamsinh());
 		System.out.println("SDT: "+sv.getSdt());
-		
 	}
 
 }
